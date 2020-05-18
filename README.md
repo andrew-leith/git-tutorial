@@ -1,5 +1,5 @@
 # git-tutorial
-Git and Github Basic Tutorial
+Git and Github Basic Tutorial (1st draft)
 
 Git and Github are two related tools for managing code, documentation, and related files.  Used in concert, they facilitate **version control** - the process of editing files while maintaining a continous history of previous iterations of those files.  
 
